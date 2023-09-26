@@ -1,0 +1,32 @@
+[
+    {
+        "dir": "Dz2",
+        "name": "2.2 Эталонное решение.pkt",
+        "type": "file",
+        "size": 93422
+    },
+    {
+        "dir": "Dz2",
+        "name": "Dz2.pkt",
+        "type": "file",
+        "size": 78210
+    },
+    {
+        "dir": "Dz2",
+        "name": "Dz2.zip",
+        "type": "file",
+        "size": 444122
+    },
+    {
+        "dir": "Dz2",
+        "name": "s2.1_homework.pkt",
+        "type": "file",
+        "size": 90043
+    },
+    {
+        "dir": "Dz2",
+        "name": "images",
+        "type": "directory",
+        "size": 4096
+    }
+]
